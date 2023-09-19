@@ -1,0 +1,5 @@
+requests==2.26.0
+rich==10.7.0
+python-whois==0.7.3
+traceroute==2.1.0
+ping3==2.10.0
