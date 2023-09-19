@@ -2,7 +2,6 @@
 
 *Versatile Command-Line Network Analysis and Diagnostics Tool*
 
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
